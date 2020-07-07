@@ -1,0 +1,40 @@
+1. overloading means getting more than posibble on a thing.
+Constructor Overloading means that we use the same constructor in more than one 
+way by changing its signature.
+
+2. It is better to use the Overloading option because it is a better way to supervise
+ that our objects will get the exact parameters in the exact way that we want them.
+
+3. In order to call from one Constructor to another in use the word "This".
+
+4.We will use the Virtual to modify a method that we want to be overridden in a derived class.
+
+5.Virtual has the option to be implement or not.
+
+6.It is not must to implement a virtual method in a derived class.
+if we won't implement it it will execute its default.
+
+7.Because every abstract is alreay virtual.
+
+8.virtual we dont must to do override and abstract we must.
+
+9.כאשר אין בנאי דיפולטי אנחנו נקבל שגיאה במחלקה היורשת בגלל שבכל מחלקה יורשת אנחנו יוצרים או מכילים
+גם מופע של האבא וכאשר הקוד לא מוצא את הבנאי הדיפולטיבי של האבא הוא מסמן לנו שגיאה.
+בשביל להתגבר על הבעיה אנחנו צריכים  נרשום את המילה: BASE
+ואז נבחר באיזה בנאי אנחנו רוצים להתשמש
+
+10.הבנאי של מחלקת האב
+
+11.Object Class
+
+12.ToString()
+זה מה שמקנה לנו את האופציות להתשמש בפונקציה הזאת מבלי להגיד אותה בפעם הראשונה.
+
+13.כן, בכל פעם שניצור מופע של מחלקה יווצר גם מופע של מחלקת OBJECT
+
+14.פונקציה שמכניסה ארגומנטים לתוך הקונסול שלנו
+מוסרים אליו ערכים דרך הקונסול.
+
+נ.ב 
+סליחה על העירבוב בין עברית לאנגלית
+בשלב כשלהו הבנתי שלוקח לי יותר מדי זמן למצוא את המילים באנגלית אז כבר עברתי לעברית.
